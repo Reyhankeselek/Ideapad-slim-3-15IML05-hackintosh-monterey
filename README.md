@@ -31,7 +31,7 @@ Sleep,
 Keyboard,
 Screen brightness,
 Audio,
-2 Usb port (2.0 and 3.0),
+Usb port (all),
 Camera,
 Bluetooth,
 Battery status,
@@ -41,7 +41,7 @@ Mousepad / trackpad,
 PowerButton (CTRL + POWER).
 
 # Not working :
-1 Usb port (3.0).
+iservices
 
 # Not tested :
 Hdmi port,
@@ -82,7 +82,6 @@ setting the date to 2019 and reinstall mac os
 
 configure your bios settings
 
-This project took 3 weeks and i highly appriciate a star from you :)
 
 **And please use this at your own risk!!!**
 ![Screen Shot 2023-07-25 at 5 19 54 PM](https://github.com/Reyhankeselek/Ideapad-slim-3-15IML05-hackintosh-monterey/assets/87765920/a2e62f49-8715-4570-a391-e7f8ea1b60cf)
